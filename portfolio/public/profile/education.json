@@ -1,0 +1,22 @@
+{
+  "education": [
+    {
+      "title": "Jun 2015 - Apr 2019",
+      "cardTitle": "Computer Science",
+      "cardSubtitle": "Vinnytsia National Technical University",
+      "cardDetailedText": "Bachelor's Degree",
+      "icon": {
+        "src": "images/education/university.png"
+      }
+    },
+    {
+      "title": "Jun 2019 - Nov 2021",
+      "cardTitle": "Computer Science",
+      "cardSubtitle": "Vinnytsia National Technical University",
+      "cardDetailedText": "Master's Degree",
+      "icon": {
+        "src": "images/education/university.png"
+      }
+    }
+  ]
+}
