@@ -24,8 +24,8 @@ const Search = (): React.JSX.Element => {
     const [langs, setLangs] = useState<Array<string>>([])
 
     const [result, setResult] = useState<Array<ICharacter>>([])
-    const [scrollData, setScrollData] = useState<Array<ICharacter>>([])
-    const [hasMoreValue, setHasMoreValue] = useState<boolean>(false);
+    // const [scrollData, setScrollData] = useState<Array<ICharacter>>([])
+    // const [hasMoreValue, setHasMoreValue] = useState<boolean>(false);
 
     const tagFilter = [
         "Featured",
