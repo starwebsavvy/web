@@ -38,11 +38,11 @@ export default function CreateBae (): React.JSX.Element {
     const [name, setName] = useState<string>('')
     const [description, setDescription] = useState<string>('')
     const [intro, setIntro] = useState<string>('')
-    const [bio, setBio] = useState<string>('')
-    const [language, setLanguage] = useState<any>(LanguagesX[0])
-    const [voice, setVoice] = useState<string>('Annette')
-    const [prompt, setPrompt] = useState<string>('')
-    const [chatModel, setChatModel] = useState<string>(availableChatModels[0])
+    // const [bio, setBio] = useState<string>('')
+    // const [language, setLanguage] = useState<any>(LanguagesX[0])
+    // const [voice, setVoice] = useState<string>('Annette')
+    // const [prompt, setPrompt] = useState<string>('')
+    // const [chatModel, setChatModel] = useState<string>(availableChatModels[0])
 
     function trimText(str: string, limit: number) {
         return str.slice(0, limit)
